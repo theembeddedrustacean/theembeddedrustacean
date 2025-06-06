@@ -26,6 +26,7 @@ Stay informed about our latest activities with these additional resources:
 ### Social Accounts
 - [Twitter/X](https://twitter.com/theembeddedrust)
 - [LinkedIn](https://www.linkedin.com/company/the-embedded-rustacean/)
+- [BlueSky](https://bsky.app/profile/theembeddedrust.bsky.social)
 
 ## 🤝 Get Involved
 
