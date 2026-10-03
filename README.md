@@ -8,9 +8,9 @@ Welcome to The Embedded Rustacean GitHub Account! If you're passionate about emb
 ### Books
 Get started right away with the following books providing the most seamless appraoch in learning embedded Rust:
 
-📚 [Simplified Embedded Rust: ESP32-C3 Standard Library Edition](https://www.theembeddedrustacean.com/c/ser-std)
+📚 [Simplified Embedded Rust: ESP32-C3 Standard Library Edition](https://www.theembeddedrustacean.com/ser-esp-std)
 
-📙 [Simplified Embedded Rust: ESP32-C3 Core Library Edition](https://www.theembeddedrustacean.com/c/ser-no-std)
+📙 [Simplified Embedded Rust: ESP32-C3 Core Library Edition](https://www.theembeddedrustacean.com/ser-esp-no-std)
 
 ### Keep Up to Date
 Stay informed about our latest activities with these additional resources:
